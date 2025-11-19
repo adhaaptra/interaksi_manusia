@@ -49,22 +49,5 @@ Dokumen akademik yang menyajikan proses dan hasil proyek untuk keperluan publika
 ### 11. 🎥 Video wawancara.  
 🔗 [Tonton Video](https://youtu.be/Vykst1X--yA?si=_bAAjxF7VClnxeon)
 
----
-
-## ✅ Status Kelengkapan
-
-| Dokumen                    | Status       |
-|---------------------------|--------------|
-| Dokumen Permasalahan      | ✅ Tersedia   |
-| Laporan Riset Pengguna    | ✅ Tersedia   |
-| Persona                   | ✅ Tersedia   |
-| Peta Empati               | ✅ Tersedia   |
-| User Journey Map          | ✅ Tersedia   |
-| Analisis Kebutuhan        | ✅ Tersedia   |
-| Wireframe Lo-Fi           | ✅ Tersedia   |
-| Evaluasi Heuristik        | ✅ Tersedia   |
-| Project Management        | ✅ Tersedia   |
-| Draft Jurnal Ilmiah       | ✅ Tersedia   |
-| Video Presentasi          | ✅ Tersedia   |
-
----
+### 11. Hasil Kuesioner.  
+🔗 (https://docs.google.com/spreadsheets/d/1fPIxL6ZL-_NSazT8RmlKzTJVpjkGq_SfSg5iTMo4Tac/edit?usp=sharing)
